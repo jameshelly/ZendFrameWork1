@@ -4,9 +4,9 @@ The main purpose of this repository is to provide a submodule for those wishing 
 Stripped out all the usual things you get with a Zend Framework download.
 
 I have added the following tags.
-- ZF1.11.6
-- ZF1.11.9
-- ZF1.11.10
+ -  ZF1.11.6
+ -  ZF1.11.9
+ -  ZF1.11.10
 
 ## Notes
 
